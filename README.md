@@ -1,7 +1,6 @@
 # test-pro
 
-main
-aaaa
+bbbb
 
 ## Project setup
 
