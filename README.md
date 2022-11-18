@@ -1,6 +1,6 @@
 # test-pro
 
-666
+main
 
 ## Project setup
 
