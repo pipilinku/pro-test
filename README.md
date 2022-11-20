@@ -1,7 +1,6 @@
 # test-pro
 
-main
-aaaa
+主分支
 
 ## Project setup
 
