@@ -4,6 +4,7 @@
       <router-link to="/">Home666</router-link> |
       <router-link to="/about">About</router-link>
     </div>
+    qwe
     <router-view />
   </div>
 </template>
